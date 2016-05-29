@@ -38,7 +38,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private SharedPreferences sPref;
     private SharedPreferences.Editor ed;
 
-    private Gson gson;
+
     private Retrofit retrofit;
 
     private User userSave;
